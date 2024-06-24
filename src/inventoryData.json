@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Jugeteria", "quantity": 10, "price": 200 },
+    { "id": 2, "name": "Papeleria", "quantity": 20, "price": 150 },
+    { "id": 3, "name": "Libros", "quantity": 30, "price": 230 },
+    { "id": 4, "name": "Fotografias", "quantity": 40, "price": 70 },
+    { "id": 5, "name": "Articulos", "quantity": 50, "price": 90 },
+    { "id": 1, "name": "Block", "quantity": 9, "price": 300 },
+    { "id": 2, "name": "Reglas", "quantity": 28, "price": 350 },
+    { "id": 3, "name": "Compas", "quantity": 45, "price": 270 },
+    { "id": 4, "name": "Agujas", "quantity": 40, "price": 280 },
+    { "id": 5, "name": "Dulceria", "quantity": 50, "price": 85 }
+  ]
